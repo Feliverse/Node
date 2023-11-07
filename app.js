@@ -7,3 +7,6 @@ frutas.forEach((fruta, index) => {
 
 
   // versionado de proyectos:  MAJOR.MINOR.PATCH   SEMANTIC VERSIONING
+
+  // npm init -y   es como decir yes a todo
+  
